@@ -19,7 +19,7 @@ The dataset is derived from **"Know Your Rights,"** Bangladesh's largest online 
 
 ## File
 
-- `Bengali Legal Dataset.xlsx` — the main dataset file
+- `Bengali Legal Dataset.csv` — the main dataset file
 
 ## Schema
 
