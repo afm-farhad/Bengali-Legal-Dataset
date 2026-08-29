@@ -12,7 +12,6 @@ The dataset is derived from **"Know Your Rights,"** Bangladesh's largest online 
 - Started from a pool of **500+ candidate posts**
 - Applied strict inclusion criteria:
   - Only questions where the responding commenter's credentials as a lawyer, legal aid practitioner, or retired judge could be manually verified were included
-  - Only questions with **citable, expert-verified legal answers** were included
   - Only questions addressing **real, substantive legal issues** with **significant legal consequences** were kept
   - Posts that were purely emotional in nature, or that bundled multiple unrelated questions together, were **excluded**
 - This filtering process, including the manual verification of commenter credentials, narrowed the pool down to a final set of **253 high-quality question–answer pairs**
