@@ -57,9 +57,10 @@ If Bengali text does not render correctly when opening the file directly in Micr
 
 ## License
 
-This dataset is released under the **Creative Commons Attribution 4.0 International (CC-BY-4.0)** license. You are free to share and adapt this dataset for any purpose, including commercially, as long as appropriate credit is given.
+This dataset is released under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license. You may share and adapt it for non-commercial research purposes, provided appropriate credit is given.
 
 See the `LICENSE` file for full terms.
+
 
 ## Citation
 
@@ -71,4 +72,9 @@ If you use this dataset, please cite:
 
 ## Ethical Considerations
 
-All questions and answers were sourced from a public Facebook group where users voluntarily posted their queries seeking legal help. Prior to inclusion in this dataset, all posts were reviewed and anonymized to remove personally identifiable information (e.g., names, locations, and other identifying details), particularly given the sensitive nature of many Family Law queries.
+- **Source:** All questions and answers were collected from a public Facebook group where users voluntarily posted legal queries and received publicly visible responses.
+- **Anonymization:** All personally identifiable information (names, locations, phone numbers, and other identifying details) was removed. No usernames, profile links, post URLs, or timestamps are included; the dataset contains only the question text and the expert answer.
+- **Purpose:** The dataset was created solely for non-commercial academic research on the reliability of LLMs for legal questions in Bengali.
+- **Ethics approval:** Data collection followed a protocol approved by our institutional ethics review.
+- **Not legal advice:** The answers reflect individual practitioners' informal comments and should not be used as legal advice.
+- **Removal requests:** If you are the author of a post included in this dataset and would like it removed, please contact us at [afmfarhad132@gmail.com] and we will remove it promptly.
