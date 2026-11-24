@@ -77,4 +77,4 @@ If you use this dataset, please cite:
 - **Purpose:** The dataset was created solely for non-commercial academic research on the reliability of LLMs for legal questions in Bengali.
 - **Ethics approval:** Data collection followed a protocol approved by our institutional ethics review.
 - **Not legal advice:** The answers reflect individual practitioners' informal comments and should not be used as legal advice.
-- **Removal requests:** If you are the author of a post included in this dataset and would like it removed, please contact us at [afmfarhad132@gmail.com] and we will remove it promptly.
+- **Removal requests:** If you are the author of a post included in this dataset and would like it removed, please contact us at [afmfarhad13@gmail.com] and we will remove it promptly.
